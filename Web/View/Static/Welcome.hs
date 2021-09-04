@@ -13,7 +13,7 @@ instance View WelcomeView where
               </div>
          </div>
 
-         <div style="max-width: 100px; margin-left: auto; margin-right: auto; margin-top: 4rem">
+         <div style="max-width: 100px; margin-top: 4rem">
               <img src="/aaa.png" style="max-width:300px">
          </div> 
 |]
